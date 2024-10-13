@@ -94,7 +94,6 @@ To comprehensively analyze the factors driving profitability for movies released
 ## Project Structure:
 
 ### 1. Box Office Profitability Model
-**Notebook Link**: [Movie Profitability Analysis in R](#)
 
 **Code Snippet**:
 ```r
